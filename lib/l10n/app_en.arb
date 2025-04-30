@@ -1,0 +1,42 @@
+{
+  "language":"English",
+  "@language":{
+      "description": "current language"
+  },
+
+  "hello": "Hello ",
+  "@hello": {
+    "description": " programmer greeting"
+  },
+
+  "find": "Find Us",
+  "@find": {
+    "description": " programmer greeting"
+  },
+
+  "tracer": "Booking Status",
+  "@tracer": {
+    "description": " programmer greeting"
+  },
+
+  "history": "My History",
+  "@history": {
+    "description": " programmer greeting"
+  },
+
+ "book":"Book",
+  "@book": {
+    "description":"good day wish"
+  },
+
+  "free":"Free slot",
+  "@free": {
+    "description":"good day wish"
+  },
+
+  "good_day":"Welcome to Dan Energy Parking",
+  "@good_day": {
+    "description":"good day wish"
+  }
+
+}
